@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank975" alt="shashank975" /></a> </p>
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis** ,**Machine Learning**
 
 - 📫 How to reach me **shashanksaad07@gmail.com**
 
