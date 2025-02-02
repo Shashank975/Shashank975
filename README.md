@@ -1,30 +1,92 @@
-<h1 align="center">Hi 👋, I'm Shashank Chhoker</h1>
-<h3 align="center">A passionate Data Scientist And Data Analyst from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Shashank+Chhoker;Senior+Data+Scientist;Machine+Learning+Expert;Data+Analytics+Professional&center=true&size=30">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank975&label=Profile%20views&color=0e75b6&style=flat" alt="shashank975" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank975" alt="shashank975" /></a> </p>
-
-- 💬 Ask me about **Data Analysis** ,**Machine Learning**
-
-- 📫 How to reach me **shashanksaad07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/shashank975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shashank975" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashankchhoker07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashankchhoker07/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shashankchhoker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shashankchhoker" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/jushank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jushank" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shashanksaad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shashanksaad07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jushank01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jushank01/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shashanksaad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shashanksaad07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/shashank975?style=social)](https://github.com/shashank975)
+  [![Years Badge](https://badges.pufler.dev/years/shashank975)](https://github.com/shashank975)
+  [![Repos Badge](https://badges.pufler.dev/repos/shashank975)](https://github.com/shashank975)
+  [![Profile Views](https://komarev.com/ghpvc/?username=shashank975&color=blueviolet)](https://github.com/shashank975)
+  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank975&show_icons=true&locale=en&layout=compact" alt="shashank975" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank975&show_icons=true&locale=en" alt="shashank975" /></p>
+class DataScientist:
+    def __init__(self):
+        self.name = "Shashank Chhoker"
+        self.role = "Senior Data Scientist"
+        self.language_spoken = ["Hindi", "English"]
+        self.code = ["Python", "SQL", "C++", "HTML", "CSS"]
+        self.tools = ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "Docker"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing with data!")
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank975&" alt="shashank975" /></p>
+me = DataScientist()
+me.say_hi()
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 🔥 Skills & Tools
+<p align="left">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"> 
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> 
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"> 
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank975&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank975&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 🌟 Top Languages
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank975&theme=tokyonight&column=7" alt="GitHub Trophies" />
+</p>
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashankchhoker07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/shashankchhoker">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:shashanksaad07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### 🏆 Competitive Programming
+<p align="center">
+  <a href="https://leetcode.com/jushank01/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/shashanksaad07">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/jushank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shashank975/count.svg" alt="Visitor Count" />
+  
+  ### Show some ❤️ by starring my repositories!
+</div>
+
+---
+<div align="center">
+  <img src="https://github.com/shashank975/shashank975/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
