@@ -1,30 +1,151 @@
-<h1 align="center">Hi 👋, I'm Shashank Chhoker</h1>
-<h3 align="center">A passionate Data Scientist And Data Analyst from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank975&label=Profile%20views&color=0e75b6&style=flat" alt="shashank975" /> </p>
+<!-- ASCII Art Header -->
+```
+ ____  _               _                 _     
+/ ___|| |__   __ _ ___| |__   __ _ _ __| | __ 
+\___ \| '_ \ / _` / __| '_ \ / _` | '__| |/ / 
+ ___) | | | | (_| \__ \ | | | (_| | |  |   <  
+|____/|_| |_|\__,_|___/_| |_|\__,_|_|  |_|\_\ 
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank975" alt="shashank975" /></a> </p>
+<!-- Animated Text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F71D6A&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Shashank+Chhoker;Data+Scientist+%26+ML+Engineer;Transforming+Data+into+Intelligence)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Data Analysis**
+<!-- Dynamic Badges Row 1 -->
+![Profile Views](https://komarev.com/ghpvc/?username=shashank975&style=for-the-badge&color=blueviolet)
+[![Years Badge](https://badges.pufler.dev/years/shashank975?style=for-the-badge&color=blue)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/shashank975?style=for-the-badge&color=green)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/shashank975?style=for-the-badge&color=red)](https://badges.pufler.dev)
 
-- 📫 How to reach me **shashanksaad07@gmail.com**
+<!-- Dynamic Badges Row 2 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankchhoker07/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shashankchhoker)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jushank01/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://shashank975.github.io)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/shashank975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shashank975" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashankchhoker07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashankchhoker07/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shashankchhoker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shashankchhoker" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/jushank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jushank" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shashanksaad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shashanksaad07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jushank01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jushank01/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shashanksaad07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shashanksaad07" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- About Me Section -->
+<div align="center">
+<h2> 🤖 About Me </h2>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank975&show_icons=true&locale=en&layout=compact" alt="shashank975" /></p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank975&show_icons=true&locale=en" alt="shashank975" /></p>
+class DataScientist:
+    def __init__(self):
+        self.name = "Shashank Chhoker"
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "🇮🇳 India"
+        self.languages = ["en_US", "hi_IN"]
+        self.education = {
+            "degrees": ["Bachelor's in Computer Science"],
+            "certifications": ["AWS ML Specialist", "Azure AI Engineer", "MS fabric", "MS Purview"]
+        }
+        self.skills = {
+            "languages": ["Python","SQL","Pyspark"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "XGBoost"],
+            "data_processing": ["Pandas", "NumPy", "PySpark", "Dask"],
+            "visualization": ["Matplotlib", "Seaborn", "Plotly", "D3.js"],
+            "cloud": ["AWS", "Azure", "GCP"],
+            "mlops": ["Docker", "MLflow", "DVC"],
+            "databases": ["PostgreSQL", "MongoDB", "Cassandra", "Redis"]
+        }
+        self.interests = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's collaborate and build something amazing! 🚀")
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank975&" alt="shashank975" /></p>
+me = DataScientist()
+me.say_hi()
+```
+
+<!-- Skill Bars -->
+<div align="center">
+<h2> 🛠️ Skills & Technologies </h2>
+</div>
+
+<!-- Data Science -->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+
+<!-- Data Engineering -->
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+<!-- Cloud & MLOps -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+
+<!-- Development Tools -->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+<!-- Statistics Section -->
+<div align="center">
+<h2> 📊 GitHub Statistics </h2>
+
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank975&layout=compact&theme=radical&hide_border=true&title_color=F85D7F" height="180px"/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank975&theme=radical&hide_border=true" height="180px"/>
+
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+<h2> 🏆 Achievements & Contributions </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashank975&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Activity Graph -->
+[![Shashank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashank975&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Current Focus Section -->
+<div align="center">
+<h2> 🎯 Current Focus </h2>
+</div>
+
+```mermaid
+mindmap
+  root((Data Science))
+    Deep Learning
+      Computer Vision
+      Natural Language Processing
+      Reinforcement Learning
+      Python
+      Pyspark
+    MLOps
+      CI/CD
+      Model Monitoring
+      Feature Store
+    Cloud
+      MS Fabric
+      Synapse
+      Azure ML
+      
+```
+
+<!-- Latest Projects Section -->
+<div align="center">
+<h2> 🚀 Featured Projects </h2>
+
+
+
+</div>
+
+
+
+### 🎵 Now Playing
+[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
